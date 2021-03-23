@@ -1,3 +1,3 @@
 # CompOrgMid
-<h1>Project for Computer Organization and Architecture</h1><br>
+<h3>Project for Computer Organization and Architecture</h3><br>
 <strong>Team Members:</strong> Ilshat Niyazov, Erlan Alymkulov<br>
